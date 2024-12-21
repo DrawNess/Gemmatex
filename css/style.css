@@ -719,9 +719,6 @@ footer {
   .footer_info a img{
     margin: auto;
   }
-  .footer_social_media {
-    flex-wrap: wrap;
-  }
   .footer_box {
     flex-direction: column;
     align-items: center;
